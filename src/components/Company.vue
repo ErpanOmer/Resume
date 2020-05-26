@@ -22,7 +22,7 @@
     <div class="item">
       <div class="name">
         <p>	深圳市明之阳移动多媒体技术有限公司（实习）</p>
-        <span>公司性质：外包</span>
+        <span>公司性质：创业</span>
         <span>2017.5 ~ 2018.3</span>
         <span>职位：Web前端工程师</span>
       </div>
